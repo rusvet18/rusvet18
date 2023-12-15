@@ -1,5 +1,5 @@
-Im a Dima
-Im programming in the C, C++, x86asm
+Im a Dima.
+Im programming in the C, C++, x86asm.
 not the end...
 
 <!---
